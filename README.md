@@ -21,4 +21,5 @@
 Apaixonado por tecnologia, sede por aprendizado e por poder impactar processos na vida das pessoas.
 
 Formado em técnico em tecnologia da informação no Colégio Notre Dame Campinas em 2021.
+
 Cursando Análise e desenvolvimento de sistemas na UNINTER.
