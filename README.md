@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://monip.org)
 [![Linkedin](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://monip.org)
 
-![DouglasRene GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasRene&show_icons=true&theme=onedark)
+![DouglasRene GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasrene&show_icons=true&theme=onedark)
 
 ### Tecnologias que estou em desenvolvimento
 
@@ -23,4 +23,4 @@ Apaixonado por tecnologia, sede por aprendizado e por poder impactar processos n
 Formado em técnico em tecnologia da informação no Colégio Notre Dame Campinas em 2021.
 Cursando Análise e desenvolvimento de sistemas na UNINTER.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRene&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrene&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
