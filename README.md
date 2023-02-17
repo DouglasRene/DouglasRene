@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Douglas Rene 👋
 
-[![Blog](https://img.shields.io/website?label=douglasrene.com&style=for-the-badge&url=https://douglasrene.com/)](https://sites.google.com/view/portflio-douglas/in%C3%ADcio)
+[![Blog](https://img.shields.io/website?label=douglasrene.com&style=for-the-badge&url=https://douglasrene.com/)](https://douglasrene.github.io)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-rene-396607179)
 
 ![DouglasRene GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasRene&show_icons=true&theme=onedark)
